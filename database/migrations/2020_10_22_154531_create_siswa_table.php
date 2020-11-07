@@ -34,3 +34,5 @@ class CreateSiswaTable extends Migration
         Schema::dropIfExists('siswa');
     }
 }
+
+// tfttg
